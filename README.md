@@ -5,3 +5,7 @@
 ## Interfaz de usuario
 [Hoja de Estilo](hojaDeEstilo.md)\
 [Wireframe](wireFrame.md)
+
+## Base de datos
+### DER
+![](DERdb.png)

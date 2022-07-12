@@ -8,4 +8,4 @@
 
 ## Base de datos
 ### DER
-![](DERdb.png)
+![](Img/baseDeDatos/DERdb.png)

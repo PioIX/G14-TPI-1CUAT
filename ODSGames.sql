@@ -1,4 +1,4 @@
-CREATE TABLE juegos (ODS INTEGER NOT NULL PRIMARY KEY, nombreJuego TEXT NOT NULL, consignas TEXT NOT NULL, tipoJuego TEXT NOT NULL);
+CREATE TABLE juegos (ODS INTEGER NOT NULL PRIMARY KEY, nombreJuego TEXT NOT NULL, consignas text NOT NULL, tipoJuego TEXT NOT NULL);
 
 CREATE TABLE usuarios (nombre TEXT NOT NULL PRIMARY KEY, contraseña TEXT NOT NULL, fotoPerfil INTEGER NOT NULL, historialJuegos INTEGER, estadisticasPersonales TEXT);
 
